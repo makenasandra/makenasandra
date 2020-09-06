@@ -1,6 +1,5 @@
 ![jpg](images/github_cover.jpg)
-### Hello I'm not a Robot!
-Just a well-meaning human
+### Hello fellow Human!
 
 ### My name is Makena
 
