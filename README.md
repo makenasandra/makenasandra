@@ -1,5 +1,5 @@
 ![jpg](images/github_cover.jpg)
-### Hello fellow Human!
+### Hello fellow human!
 
 ### My name is Makena
 
