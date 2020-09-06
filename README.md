@@ -1,8 +1,8 @@
 ![jpg](images/github_cover.jpg)
-### Hello I'm not a Robot
+### Hello I'm not a Robot!
 Just a well-meaning human
 
-### My name is Makena!
+### My name is Makena
 
 I am a visionary creative who is passionate about technology and innovation.
 
