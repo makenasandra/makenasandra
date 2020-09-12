@@ -6,7 +6,7 @@
 I am a visionary creative who is passionate about technology and innovation.
 
 
-- 🤸‍♂️ I’m currently working on an exciting project on Machine Learning project. 
+- 🤸‍♂️ I’m currently working on an exciting Machine Learning project. 
 
 - 🤝 I’m looking to collaborate on any project that uses Flutter or that involves Machine Learning. 
    
